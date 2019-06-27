@@ -15,10 +15,10 @@
 
 	<name>asciidoctor-gherkin-extension</name>
 	<description>Asciidoctor extension to format gherkin feature files in asciidoc files.</description>
-	<url>https://github.com/domgold/asciidoctor-gherkin-extension</url>
+	<url>https://github.com/jos-plas/asciidoctor-gherkin-extension</url>
 	<issueManagement>
 		<system>github</system>
-		<url>https://github.com/domgold/asciidoctor-gherkin-extension/issues</url>
+		<url>https://github.com/jos-plas/asciidoctor-gherkin-extension/issues</url>
 	</issueManagement>
 	<licenses>
 		<license>
@@ -26,9 +26,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git@github.com:domgold/asciidoctor-gherkin-extension.git</connection>
-		<developerConnection>scm:git:git@github.com:domgold/asciidoctor-gherkin-extension.git</developerConnection>
-		<url>scm:git:git@github.com:domgold/asciidoctor-gherkin-extension.git</url>
+		<connection>scm:git:git@github.com:jos-plas/asciidoctor-gherkin-extension.git</connection>
+		<developerConnection>scm:git:git@github.com:jos-plas/asciidoctor-gherkin-extension.git</developerConnection>
+		<url>scm:git:git@github.com:jos-plas/asciidoctor-gherkin-extension.git</url>
 	</scm>
 
 	<properties>
